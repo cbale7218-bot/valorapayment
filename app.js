@@ -1,6 +1,6 @@
 // VALORA — configuración remota mediante GitHub Gist
 // IMPORTANTE: cambia SOLO esta URL una vez, por la URL RAW de tu Gist.
-const GIST_RAW_URL = 'https://gist.githubusercontent.com/USUARIO/GIST_ID/raw/payment.json';
+const GIST_RAW_URL = 'https://gist.githubusercontent.com/cbale7218-bot/99b95074e00df4c7f2dd93b0e2fd3ffe/raw/9e5fce10388590d35095cc486b58cb76bcc97254/payment.json';
 
 // Frecuencia de comprobación. 5000 = cada 5 segundos.
 // El QR solo se redibuja cuando cambia el contenido.
