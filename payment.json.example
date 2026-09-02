@@ -1,0 +1,11 @@
+{
+  "companyName": "VALORA",
+  "tagline": "Tu aliado financiero.",
+  "payment": {
+    "name": "NOMBRE DEL TITULAR",
+    "bank": "NOMBRE DEL BANCO",
+    "account": "000000000000",
+    "cci": "00000000000000000000",
+    "qrPayload": "PEGA_AQUI_EL_CONTENIDO_EXACTO_DEL_QR"
+  }
+}
